@@ -1,0 +1,2 @@
+// SQLcipher 4.6.1 is based on SQLite 3.46.1
+3.46.1
